@@ -21,8 +21,6 @@ jobs:
           config: merge_hi6250_defconfig
           arch: arm64
           aosp-gcc: true
-          aosp-clang: true
           android-version: 9
-          aosp-clang-version: clang-r383902b
           disable-lto: true
           anykernel3: true
