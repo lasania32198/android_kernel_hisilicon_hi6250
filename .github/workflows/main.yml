@@ -21,6 +21,6 @@ jobs:
           config: merge_hi6250_defconfig
           arch: arm64
           aosp-gcc: true
-          android-version: 9.0.0_r70
+          android-version: pie
           disable-lto: true
           anykernel3: true
